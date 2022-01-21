@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/mis_uni_official/",
   "lang": "en-US",
-  "title": "Papatto",
-  "description": "クローゼットアプリ",
+  "title": "ミスユニ！",
+  "description": "大学生のサークル探しアプリ",
   "head": [],
   "locales": {}
 }

@@ -8,6 +8,6 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "filePathRelative": null,
-  "git": {}
+  "git": {},
+  "filePathRelative": null
 }

@@ -1,6 +1,6 @@
-import clientAppSetup0 from '/Users/hachi/mis_uni_official/node_modules/@vuepress/theme-default/lib/client/clientAppSetup.js'
-import clientAppSetup1 from '/Users/hachi/mis_uni_official/node_modules/@vuepress/plugin-active-header-links/lib/client/clientAppSetup.js'
-import clientAppSetup2 from '/Users/hachi/mis_uni_official/node_modules/@vuepress/plugin-nprogress/lib/client/clientAppSetup.js'
+import clientAppSetup0 from '/Users/yujiwilliam/Desktop/development/ミスユニ/mr_university_app_new/VuePress/node_modules/@vuepress/plugin-active-header-links/lib/client/clientAppSetup.js'
+import clientAppSetup1 from '/Users/yujiwilliam/Desktop/development/ミスユニ/mr_university_app_new/VuePress/node_modules/@vuepress/plugin-nprogress/lib/client/clientAppSetup.js'
+import clientAppSetup2 from '/Users/yujiwilliam/Desktop/development/ミスユニ/mr_university_app_new/VuePress/node_modules/@vuepress/theme-default/lib/client/clientAppSetup.js'
 
 export const clientAppSetups = [
   clientAppSetup0,
