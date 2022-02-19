@@ -48,6 +48,14 @@
 * いいね機能
 * お気に入り機能
 
+## 開発詳細
+
+* 開発言語 : swift 
+* DB :  Firebase
+* パッケージツール : CocoaPods
+* デザインツール : PhotoShop, AdobeXD, Illustrator
+
+
 ## 利用条件
  
 * iOS 14.0+
