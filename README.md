@@ -28,7 +28,7 @@
 ”サークルと新入生の架け橋となるようなプロジェクト”
 を進めていくことになりました。
 
-# DEMO
+## DEMO
 <br>
 
 ![1h](https://user-images.githubusercontent.com/59042491/154796484-2de15c4d-252c-4700-8663-7607a53d9c2c.png)
@@ -37,18 +37,18 @@
 - トップページでは各大学のサークル団体が投稿したサークル情報が羅列されています。
 - トップページ上のサークルをタップするとサークル情報をより詳しく見ることができます。
  
-# Features
+## Features
  
 "hoge"のセールスポイントや差別化などを説明する
  
-# Requirement
+## Requirement
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
  
 * huga 3.5.2
 * hogehuga 1.0.2
  
-# Installation
+## Installation
  
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
@@ -56,7 +56,7 @@ Requirementで列挙したライブラリなどのインストール方法を説
 pip install huga_package
 ```
  
-# Usage
+## Usage
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
@@ -66,11 +66,11 @@ cd examples
 python demo.py
 ```
  
-# Note
+## Note
  
 注意点などがあれば書く
  
-# Author
+## Author
  
 作成情報を列挙する
  
