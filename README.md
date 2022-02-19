@@ -52,7 +52,10 @@
 ## Requirement
  
 * iOS 14.0+
+
+## Note
  
+利用規約 https://mrj-william.github.io/mis_uni_official/
  
 ## Author
 
